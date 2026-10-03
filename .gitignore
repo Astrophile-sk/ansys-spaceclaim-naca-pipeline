@@ -1,0 +1,16 @@
+# ANSYS SpaceClaim & CAD temporary files
+*.scdoc.bak
+*.Journal
+*.log
+*.tmp
+*.ans
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Python cache & IDE settings
+__pycache__/
+*.pyc
+.vscode/
+.idea/
